@@ -1,7 +1,7 @@
 ---
 title: Valhalla Incorporate
 subtitle: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: ''
 layout: page
 ---
 ## Lorem ipsum
