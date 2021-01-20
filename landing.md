@@ -3,6 +3,7 @@ title: Valhalla Incorporate
 subtitle: ''
 excerpt: ghggg
 layout: page
+img_path: images/Sunset_LI.jpg
 ---
 ## Lorem ipsum
 
