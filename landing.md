@@ -1,6 +1,6 @@
 ---
 title: Valhalla Incorporate
-subtitle: lorem-ipsum
+subtitle: 'A '
 excerpt: ghggg
 layout: page
 ---
