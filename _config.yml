@@ -8,7 +8,7 @@ palette: yellow
 header:
   title: THIS IS THE HEADER
   tagline: Minimal and clean blog theme
-  logo_img: images/logo.svg
+  logo_img: images/Jay.jpg
   logo_img_alt: Fjord Logo
   background_img: images/header-bg.jpg
   has_nav: false
