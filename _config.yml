@@ -4,7 +4,7 @@ permalink: '/:title/'
 collections:
   posts:
     permalink: '/posts/:title/'
-palette: blue
+palette: yellow
 header:
   title: THIS IS THE HEADER
   tagline: Minimal and clean blog theme
