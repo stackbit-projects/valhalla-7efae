@@ -1,5 +1,5 @@
 ---
-title: Valhalla
+title: Valhalla In
 subtitle: lorem-ipsum
 excerpt: lorem-ipsum
 layout: page
